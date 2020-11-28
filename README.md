@@ -1,6 +1,10 @@
 # GradPro2
 
 Github ReadMe.md 에 기제될 내용
-1. 졸업 작품 업로드한 YouTube 링크
-2. 게임 개요 게임 타이틀, 장르, 플랫폼, 타겟 플레이어
-3. 게임의 기획적/기술적 특징 등을 이미지와 함께 자유롭게 소개. 
+게임플레이 영상 : https://youtu.be/7lwn3lSZx-8
+게임 소스 코드 : https://github.com/mapleclover/GradProject (version 1.0)
+
+게임 타이틀 : Revered
+장르 : Turn-Based RPG
+플랫폼 : PC
+타겟 플레이어 : 턴제 전략과 스토리 게임을 좋아하는 플레이어 모두
